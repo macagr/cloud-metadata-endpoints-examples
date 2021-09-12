@@ -1,0 +1,6 @@
+name: azure-vuln-youtrack
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: Vulnerable Youtrack Pulumi
