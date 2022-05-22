@@ -1,6 +1,0 @@
-name: aws-vuln-youtrack
-runtime:
-  name: python
-  options:
-    virtualenv: venv
-description: Vulnerable Youtrack ECS Instance

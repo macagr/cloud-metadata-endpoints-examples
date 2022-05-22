@@ -1,5 +1,0 @@
-encryptionsalt: v1:U0S/txySkpk=:v1:yPDibnUh+XqmsuWP:7GH0dpLLmnO4b8PXrP7cfWSd+btLtw==
-config:
-  gcp-vuln-youtrack:docker-config-file: /home/blackdargor/.docker/config.json
-  gcp:project: vuln-youtrack-cloud-run
-  gcp:region: europe-west4
