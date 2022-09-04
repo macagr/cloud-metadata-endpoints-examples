@@ -8,5 +8,7 @@ The infrastructure is deployed using Pulumi. Each Service also deploys a single 
 
 The folder for gcp contains an application deployed in Cloud Run and a shell obtained by using the code in [https://github.com/matti/google-cloud-run-shell](https://github.com/matti/google-cloud-run-shell). All the credits go to the corresponding authors. 
 
+This is the companion of the following blog: [https://macagr.github.io/posts/playing-with-metadata-endpoints](https://macagr.github.io/posts/playing-with-metadata-endpoints)
+
 
 
